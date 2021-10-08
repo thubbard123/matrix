@@ -7,7 +7,7 @@
   Password=""
   Directory="C:\Users\Tyler Hubbard\Desktop\MadCap Projects\My Projects\MatrixGithubSSH"
   Port=""
-  ViewUrl="http://www.madcapsoftware.com/"
+  ViewUrl="www.google.com"
   Type="scm"
   ProviderType="Git"
   Database="file:///C:/Users/Tyler Hubbard/Desktop/MadCap Projects/My Projects/MatrixGithubSSH/.git"
